@@ -1,2 +1,2 @@
-# genious-test
+# genius-test
 test
